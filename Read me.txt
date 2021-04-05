@@ -1,0 +1,4 @@
+You Must Change Connection String in appsettings.json File for Migrate Database.
+
+Database is Auto Created on the First Run of Project.
+
